@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chandanabhat994-tech/Competitive_Programming/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/chandanabhat994-tech/Competitive_Programming/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/chandanabhat994-tech/Competitive_Programming/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/chandanabhat994-tech/Competitive_Programming/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
